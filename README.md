@@ -18,13 +18,13 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [Bangunin Project](github.com/fauziardha1/bangunin)
 
-- 🌱 I’m currently learning **SwiftUI, UIKit, Geolocation, and Mapkit**
+- 🌱 I’m currently learning **Software Architecture, SOLID Principle, SwiftUI, UIKit, Geolocation, and Mapkit**
 
-- 💬 Ask me about **Swift, Dart, Flutter, Design Pattern, Architectural Pattern**
+- 💬 Ask me about **Swift, Objective-C, SOLID Principle, Software Architecture**
 
 - 📫 How to reach me **fauziardasaputra@gmail.com**
 
-- ⚡ Fun fact **I like Oddey**
+- ⚡ Fun fact **I like to sweat**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
